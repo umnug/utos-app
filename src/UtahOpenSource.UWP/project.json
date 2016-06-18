@@ -23,8 +23,8 @@
     "Xam.Plugins.Forms.ImageCircle": "1.4.1",
     "Xam.Plugins.Messaging": "3.2.1",
     "Xam.Plugins.Settings": "2.1.0",
-    "Xamarin.Forms": "2.3.0.34-pre1",
-    "Xamarin.Forms.Maps": "2.3.0.34-pre1",
+    "Xamarin.Forms": "2.3.0.49",
+    "Xamarin.Forms.Maps": "2.3.0.49",
     "Xamarin.Insights": "1.12.3",
     "ZXing.Net.Mobile.Forms": "2.1.0-beta1"
   },

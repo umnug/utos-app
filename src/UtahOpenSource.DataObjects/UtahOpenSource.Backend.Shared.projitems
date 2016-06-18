@@ -21,5 +21,8 @@
     <Compile Include="$(MSBuildThisFileDirectory)FeaturedEvent.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Notification.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)MiniHack.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)UTOSDataModels\Speaker.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)UTOSDataModels\Sponsor.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)UTOSDataModels\Talk.cs" />
   </ItemGroup>
 </Project>
